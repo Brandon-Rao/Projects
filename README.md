@@ -1,34 +1,9 @@
 # Brandon Rao's Coding Projects
 
+## This github repository includes the following projects written by me
 
-### Markdown
+### polybot
+This is a discord chat bot I created in python to use for my discord server, it includes functionality that allows for the random sending of images and other entertaining things
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brandon-Rao/Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### matrix calculator
+This is a project I created in python intended to be used for the multiplication of large matrices that would require too much time (and scratch paper) to do by hand. During my time in Linear Algebra classes, I found myself uses calculators such as these alot and wondered if I could make my own, turns out I can and here it is!
