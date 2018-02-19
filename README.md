@@ -1,4 +1,4 @@
-## Brandon Rao's Coding Projects
+# Brandon Rao's Coding Projects
 
 
 ### Markdown
