@@ -1,5 +1,5 @@
 '''
-/////////CODED BY BRANDON RAO OF THE UNIVERSITY OF TORONTO SCARBOROUGH/////////
+/////////////////////////////CODED BY BRANDON RAO/////////////////////////////
 '''
 
 
